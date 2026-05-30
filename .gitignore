@@ -1,28 +1,25 @@
-```
-# Garry's Mod specific
-data/
-downloadedmaps/
-gamemodes/*
-!gamemodes/example/
-lua/bin/
-*.vpk
-*.cache
+# Examples 1:
 
-# Dependencies
-addons/
-workshop/
-
-# Logs and temp files
+# Example 2 (Project with artifacts):
+#Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+dist/
+build/
+#Dependencies
+.venv/
+venv/
+node_modules/
+#Logs and temp files
 *.log
 *.tmp
-
-# Editor/IDE
+*.swp
+#Environment
+.env
+.env.local
+.env.
+#Editors
 .vscode/
 .idea/
-*.swp
-*.swo
-
-# System files
-.DS_Store
-Thumbs.db
-```
