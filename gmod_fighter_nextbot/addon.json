@@ -1,0 +1,11 @@
+-- Fighter Bot Nextbot - Addon Information
+-- Place this in your addon folder for GMod
+
+"AddonInfo"
+{
+    "title"         "Fighter Bot Nextbot"
+    "version"       "1.0"
+    "up_date"       ""
+    "author"        "Bot Creator"
+    "description"   "A versatile nextbot that can fight SNPCs, Nextbots, VJ Base, DRGBase, CPTBase NPCs, and Players. Features configurable targeting via checkboxes, custom models, and weapons."
+}

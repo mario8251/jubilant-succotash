@@ -1,0 +1,28 @@
+```
+# Garry's Mod specific
+data/
+downloadedmaps/
+gamemodes/*
+!gamemodes/example/
+lua/bin/
+*.vpk
+*.cache
+
+# Dependencies
+addons/
+workshop/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+```
